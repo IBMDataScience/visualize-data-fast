@@ -1,6 +1,6 @@
 # Visualize Data Fast | Watson Studio: [Blog](https://medium.com/@jorge_castanon/visualize-data-fast-watson-studio-ae1ec63e9b8f?source=friends_link&sk=c9fc9c85f364bdc221a93c1ae78c26db)
 
-## Step by step instructions to reproduce the visualizations:
+## Step by step instructions to reproduce viz in [blog](https://medium.com/@jorge_castanon/visualize-data-fast-watson-studio-ae1ec63e9b8f?source=friends_link&sk=c9fc9c85f364bdc221a93c1ae78c26db)
 
 1. Download the 1,000-row sample data set from [here](https://ibm.box.com/s/6fltz5ilap8pbwzu2tt1yxil6ldosc9d). The file's name is `thermostat_rebates_by_zip_1000.csv`.
 
@@ -8,8 +8,7 @@
 
 1. Open Watson Studio.
 
-1. Click `New project` on the top right to create a new project on Watson Studio.
-<img src="https://github.com/IBMDataScience/visualize-data-fast/blob/master/screenshots/1%20create%20project.png">
+1. Click `New project` on the top right to create a new project on Watson Studio. <img src="https://github.com/IBMDataScience/visualize-data-fast/blob/master/screenshots/1%20create%20project.png">
 
 1. Name your project and click `Create` on the bottom right.
 
